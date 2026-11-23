@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ControlEdad</string>
+    <string name="titulo">Control de edad</string>
+
+    <!-- Campos y botones -->
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_edad">Edad</string>
+    <string name="boton_comprobar">Comprobar</string>
+    <string name="boton_limpiar">Limpiar</string>
+    <string name="boton_volver">Volver</string>
+    <string name="boton_compartir">Compartir resultado</string>
+
+    <!-- Avisos Toast -->
+    <string name="toast_nombre_vacio">Escribe tu nombre</string>
+    <string name="toast_edad_invalida">Introduce una edad válida</string>
+    <string name="toast_sin_app_compartir">No hay ninguna app para compartir</string>
+
+    <!-- Textos con huecos: %1$s = texto, %1$d = número -->
+    <string name="contador">Comprobaciones: %1$d</string>
+    <string name="bienvenida">Bienvenido/a %1$s</string>
+
+    <!-- Mensajes de edad -->
+    <string name="mensaje_menor">Eres menor de edad</string>
+    <string name="mensaje_justo">Tienes justo 18 años</string>
+    <string name="mensaje_mayor">Eres mayor de edad</string>
+
+    <!-- Texto que se comparte -->
+    <string name="compartir_menor">%1$s es menor de edad</string>
+    <string name="compartir_justo">%1$s tiene justo 18 años</string>
+    <string name="compartir_mayor">%1$s es mayor de edad</string>
+    <string name="titulo_selector">Compartir con…</string>
+</resources>
